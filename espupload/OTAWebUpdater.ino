@@ -3,7 +3,7 @@
 #include <WebServer.h>
 #include <Update.h>
 
-const char* ssid = "NetzName";
+const char* ssid = "WlanName";
 const char* password = "pwd";
 
 WebServer server(80);
