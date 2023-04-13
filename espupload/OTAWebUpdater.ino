@@ -73,7 +73,7 @@ void setup(void) {
     HTTPUpload& upload = server.upload();
     if (upload.status == UPLOAD_FILE_START) {
       Serial.printf("Update: %s\n", upload.filename.c_str());
-      if (!Update.begin(UPDATE_SIZE_UNKNOWN)) { //start with max available size
+      if (!Update.begin(UPDATE_SIZE_UNKNOWN)) { 
         Update.printError(Serial);
       }
     } else if (upload.status == UPLOAD_FILE_WRITE) {
@@ -81,7 +81,7 @@ void setup(void) {
         Update.printError(Serial);
       }
     } else if (upload.status == UPLOAD_FILE_END) {
-      if (Update.end(true)) { //true to set the size to the current progress
+      if (Update.end(true)) { 
         Serial.printf("Update Success: %u\nRebooting...\n", upload.totalSize);
       } else {
         Update.printError(Serial);
