@@ -7,5 +7,5 @@ V21heltec_wifi_lora_32_V2.bin für Heltec WIFI LoRa 32 V2
 
 für die Grafik müssen noch 3 Dateien via Webui (ip/uploadjs) geladen werden:   
 lib/config.js   
-lib/echarts.js   
+lib/simpleRequire.js   
 echarts.min.js von https://github.com/apache/echarts/tree/master/dist
