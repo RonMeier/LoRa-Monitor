@@ -1,9 +1,12 @@
 # LoraMonitor
 Lora Monitor Programm mit sender und LoraWAN weiterleitung 
 
-Empfangene LoRa-Packete können via MQTT, HTTP oder UDP weitergeleitet werden 
-Lora Sender: verschiedene Vorlagen für sendestring können abgespeichert werden 
-Lora to LoraWAN - Bridge: empfangene Lora-Packete können direkt an Lorawan weitergeleitet werden 
+Empfangene LoRa-Packete können via MQTT, HTTP oder UDP weitergeleitet werden
+ 
+Lora Sender: verschiedene Vorlagen für sendestring können abgespeichert werden
+ 
+Lora to LoraWAN - Bridge: empfangene Lora-Packete können direkt an Lorawan weitergeleitet werden
+ 
 
 V2.1_ttgo-lora32-v1.bin für LilyGo TTGO LoRa32 mit SD Support   
 V2.1_heltec_lora_32_V2.bin für Heltec WIFI LoRa 32 V2 
