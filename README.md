@@ -1,11 +1,16 @@
 # LoraMonitor
-Lora Monitor Programm
-LoRa-Packete können via MQTT, HTTP oder UDP weitergeleitet werden
+Lora Monitor Programm mit sender und LoraWAN weiterleitung
+Empfangene LoRa-Packete können via MQTT, HTTP oder UDP weitergeleitet werden
+Lora Sender: verschiedene Vorlagen für sendestring können abgespeichert werden
+Lora to LoraWAN - Bridge: empfangene Lora-Packete können direkt an Lorawan weitergeleitet werden
 
-V21.ttgo-lora32-v1.bin für LilyGo TTGO LoRa32 mit SD Support   
-V21heltec_wifi_lora_32_V2.bin für Heltec WIFI LoRa 32 V2 
+V2.1_ttgo-lora32-v1.bin für LilyGo TTGO LoRa32 mit SD Support   
+V2.1_heltec_lora_32_V2.bin für Heltec WIFI LoRa 32 V2 
 
-für die Grafik müssen noch 3 Dateien via Webui (ip/uploadjs) geladen werden:   
+nach dem Flashen des bin-Files wird ein AP auf 192.168.1.4. eröffnet
+nach Eingabe von WLAN-Netzwerkname und Passwort wird beim nächsten Start der esp im eigenen Netz angemeldet
+
+damit die Grafiken aangezeigt werden, müssen noch 3 Dateien via Webui (ip/uploadjs) geladen werden:   
 lib/config.js   
 lib/simpleRequire.js   
 echarts.min.js von https://github.com/apache/echarts/tree/master/dist
