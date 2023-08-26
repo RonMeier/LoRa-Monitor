@@ -1,5 +1,5 @@
 # LoraMonitor
-Lora Monitor Programm mit sender und LoraWAN weiterleitung 
+Lora Monitor Programm mit Sender und LoraWAN weiterleitung 
 
 Empfangene LoRa-Packete können via MQTT, HTTP oder UDP weitergeleitet werden
 
