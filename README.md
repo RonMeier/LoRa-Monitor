@@ -7,7 +7,7 @@ Lora to LoraWAN - Bridge: empfangene Lora-Packete können direkt an LoraWAN weit
 
 Lora Sender: verschiedene Vorlagen für Sendetexte können definiert werden
 
-V2.1_ttgo-lora32-v1.bin für LilyGo TTGO LoRa32 mit SD Support   
+V2.1_ttgo-lora32-v1.bin für LilyGo TTGO LoRa32 (T3_V1.6.1) mit SD Support   
 V2.1_heltec_lora_32_V2.bin für Heltec WIFI LoRa 32 V2 
 
 nach dem Flashen des bin-Files wird ein AP auf 192.168.1.4 eröffnet.
