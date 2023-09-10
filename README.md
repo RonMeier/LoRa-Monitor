@@ -16,4 +16,4 @@ Nach Eingabe von WLAN-Netzwerkname und Passwort wird beim nächsten Start der es
 damit die Grafiken angezeigt werden, müssen noch 3 Dateien via Webui (ip/uploadjs) geladen werden:   
 lib/config.js   
 lib/simpleRequire.js   
-echarts.min.js von https://github.com/apache/echarts/tree/master/dist
+lib/echarts.min.js
