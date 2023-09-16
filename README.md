@@ -3,9 +3,9 @@ LoRa Empfänger und Sender mit zusätzlicher "Lora to LoraWAN" weiterleitung
 
 Empfangene LoRa-Packete können via MQTT, HTTP oder UDP weitergeleitet werden
 
-Lora to LoraWAN - Bridge: empfangene Lora-Packete können direkt an LoraWAN weitergeleitet werden
+"Lora to LoraWAN - Bridge"  empfangene Lora-Packete können direkt an LoraWAN weitergeleitet werden
 
-Lora Sender: verschiedene Vorlagen für Sendetexte können definiert werden
+Lora Sender: verschiedene Vorlagen für Sendetexte
 
 V2.1_ttgo-lora32-v1.bin für LilyGo TTGO LoRa32 (T3_V1.6.1) mit SD Support   
 V2.1_heltec_lora_32_V2.bin für Heltec WIFI LoRa 32 V2 
