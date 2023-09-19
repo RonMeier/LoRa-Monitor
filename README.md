@@ -10,7 +10,7 @@ Lora Sender: verschiedene Vorlagen für Sendetexte
 Webhook: "http to Lora" oder "http to LoraWAN"  
 
 V2.1_ttgo-lora32-v1.bin für LilyGo TTGO LoRa32 (T3_V1.6.1) mit SD Support   
-V2.1_heltec_lora_32_V2.bin für Heltec WIFI LoRa 32 V2 
+V2.1_heltec_lora_32_V2.bin für Heltec WIFI LoRa esp32 V2 
 
 nach dem Flashen des bin-Files wird ein AP auf 192.168.1.4 eröffnet.
 Nach Eingabe von WLAN-Netzwerkname und Passwort wird beim nächsten Start der esp im eigenen Netz angemeldet 
