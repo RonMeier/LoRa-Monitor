@@ -1,4 +1,4 @@
-# LoraMonitor
+# LoRa Monitor + LoRaWAN Node
 LoRa Empfänger und Sender mit zusätzlicher "Lora to LoraWAN" weiterleitung 
 
 Empfangene LoRa-Packete können via MQTT, HTTP oder UDP weitergeleitet werden
