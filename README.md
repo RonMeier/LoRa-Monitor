@@ -13,7 +13,6 @@ MQTT, HTTP oder UDP Support
 nach dem Flashen des bin-Files wird ein AP auf 192.168.1.4 eröffnet.
 Nach Eingabe von WLAN-Netzwerkname und Passwort wird beim nächsten Start der esp im eigenen Netz angemeldet 
 
-damit die Grafiken angezeigt werden, müssen noch 3 Dateien via Webui (ip/uploadjs) geladen werden:   
-lib/config.js   
-lib/simpleRequire.js   
-lib/echarts.min.js
+damit die Grafiken angezeigt werden, müssen noch 3 js-Dateien aus dem /lib-Verzeichnis via WebUI mit ip/uploadjs geladen werden:
+config.js, simpleRequire.js, echarts.min.js
+
