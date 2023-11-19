@@ -4,11 +4,11 @@ V2.1-heltec-lora32_V2.bin für Heltec WIFI LoRa esp32 V2
 
 * LoRa Empfänger und Sender mit WebUI
 
-MQTT, HTTP oder UDP Support
+* MQTT, HTTP oder UDP Support
 
-"Lora to LoraWAN - Bridge"  empfangene Lora-Packete können direkt an LoraWAN weitergeleitet werden
+* "Lora to LoraWAN - Bridge"  empfangene Lora-Packete können direkt an LoraWAN weitergeleitet werden
 
-"http to Lora" / "http to LoraWAN"  
+* "http to Lora" / "http to LoraWAN"  
 
 nach dem Flashen des bin-Files wird ein AP auf 192.168.1.4 eröffnet.
 Nach Eingabe von WLAN-Netzwerkname und Passwort wird beim nächsten Start der esp im eigenen Netz angemeldet 
