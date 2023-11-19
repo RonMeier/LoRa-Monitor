@@ -3,6 +3,8 @@ V2.1-ttgo-lora32.bin für LilyGo TTGO LoRa esp32 (T3_V1.6.1) + SD Support
 V2.1-heltec-lora32_V2.bin für Heltec WIFI LoRa esp32 V2 
 
 * web server
+  
+* receive + transmit LoRa packets
 
 * MQTT, HTTP oder UDP Support
 
