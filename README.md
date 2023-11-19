@@ -8,7 +8,7 @@ V2.1-heltec-lora32_V2.bin für Heltec WIFI LoRa esp32 V2
 
 * "LoRa to LoRaWAN - Bridge"  empfangene Lora-Packete können direkt an LoraWAN weitergeleitet werden
 
-* "http to Lora" / "http to LoRaWAN"  
+* "http to LoRa" / "http to LoRaWAN"  
 
 nach dem Flashen des bin-Files wird ein AP auf 192.168.1.4 eröffnet.
 Nach Eingabe von WLAN-Netzwerkname und Passwort wird beim nächsten Start der esp im eigenen Netz angemeldet 
