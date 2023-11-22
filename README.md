@@ -4,7 +4,7 @@ V2.1-heltec-lora32_V2.bin für Heltec WIFI LoRa esp32 V2
 
 * web server
   
-* receive + transmit LoRa or LoRaWAN packets
+* receive + transmit LoRa packets
 
 * MQTT, HTTP oder UDP Support
 
