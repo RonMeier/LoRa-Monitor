@@ -8,7 +8,7 @@ V2.1-heltec-lora32_V2.bin für [Heltec WIFI LoRa esp32 V2](https://resource.helt
 
 * MQTT, HTTP oder UDP Support
 
-* "LoRa to LoRaWAN - Bridge"  empfangene LoRa-Packete können direkt an LoRaWAN weitergeleitet werden
+* "LoRa to LoRaWAN - Bridge"  Received LoRa packets can be forwarded directly to LoRaWAN
 
 * "http to LoRa" / "http to LoRaWAN"  
 
