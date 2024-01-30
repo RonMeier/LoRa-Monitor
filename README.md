@@ -6,13 +6,12 @@ Monitor V2.1-heltec-lora32_V2.bin for [Heltec WIFI LoRa esp32 V2](https://resour
   
 * receive + transmit LoRa packets
 
-* MQTT, HTTP oder UDP Support
+* MQTT, HTTP or UDP Support
 
 * "LoRa to LoRaWAN - Bridge"  Received LoRa packets can be forwarded directly to LoRaWAN. For example, all received LoRa sensors can be connected to LoRaWAN with one device
 
 * "http to LoRa" / "http to LoRaWAN"  
 
-nach dem Flashen des bin-Files wird ein AP auf 192.168.1.4 eröffnet.
-Nach Eingabe von WLAN-Netzwerkname und Passwort wird beim nächsten Start der esp im eigenen Netz angemeldet 
+After flashing the bin file, an AP is opened on 192.168.1.4. On the config page you can enter your WiFi network name and password, after which the esp will be logged into your own network the next time you start it
 
-damit die Grafiken angezeigt werden, müssen noch 3 js-Dateien aus dem /lib-Verzeichnis via WebUI mit ip/uploadjs geladen werden
+In order for the graphics to be displayed, 3 js files must be loaded from the /lib directory via WebUI with ip/uploadjs
