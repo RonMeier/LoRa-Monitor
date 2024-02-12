@@ -10,7 +10,9 @@ Monitor V2.1-heltec-lora32_V2.bin for [Heltec WIFI LoRa esp32 V2](https://resour
 
 * "LoRa to LoRaWAN - Bridge"  Received LoRa packets can be forwarded directly to LoRaWAN. For example, all received LoRa sensors can be connected to LoRaWAN with one device
 
-* "http to LoRa" / "http to LoRaWAN"  
+* "http to LoRa" / "http to LoRaWAN"
+
+* Home Assistant Auto-Discovery
 
 After flashing the bin file, an AP is opened on 192.168.1.4. On the config page you can enter your WiFi network name and password, after which the esp will be logged into your own network the next time you start it
 
