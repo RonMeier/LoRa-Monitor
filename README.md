@@ -14,7 +14,7 @@ Monitor V2.1-heltec-lora32_V2.bin for [Heltec WIFI LoRa esp32 V2](https://resour
 
 * Home Assistant Auto-Discovery
 
-Flash with esp32 Flash Tool see: [hier](https://www.aeq-web.com/esp32-flash-tool-exported-program-upload-bin-hex-file/)
+Flash with esp32 Flash Tool see: [hier](https://www.aeq-web.com/esp32-flash-tool-exported-program-upload-bin-hex-file/?lang=en)
 
 After flashing the bin file, an AP is opened on 192.168.1.4. On the config page you can enter your WiFi network name and password, after which the esp will be logged into your own network the next time you start it
 
