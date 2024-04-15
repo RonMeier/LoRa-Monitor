@@ -15,11 +15,11 @@ V2.43-heltec-lora32_V2_langDE.bin  German
 
 * "LoRa to LoRaWAN - Bridge"  Received LoRa packets can be forwarded directly to LoRaWAN. For example, all received LoRa sensors can be connected to LoRaWAN with one device
 
-* "http to LoRa" / "http to LoRaWAN"
+* API: MQTT/http to LoRa or LoRaWAN 
 
 * Home Assistant Auto-Discovery
 
-Flash .bin File with esp32 Flash Tool see: [hier](https://www.aeq-web.com/esp32-flash-tool-exported-program-upload-bin-hex-file/?lang=en) or [hier](Flash-Instructions/Flash-Instructions.pdf)   
+Flash .bin File with esp32 Flash Tool see: [here](https://www.aeq-web.com/esp32-flash-tool-exported-program-upload-bin-hex-file/?lang=en) or [here](Flash-Instructions/Flash-Instructions.pdf)   
 or with web flasher [ESPWEBTOOL](https://esp.huhn.me/) 
 
 After flashing the bin file, an AP is opened on 192.168.1.4. On the config page you can enter your WiFi network name and password, after which the esp will be logged into your own network the next time you start it
