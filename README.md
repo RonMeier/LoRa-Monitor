@@ -15,7 +15,7 @@ V2.43-heltec-lora32_V2_langDE.bin  German
 
 * "LoRa to LoRaWAN - Bridge"  Received LoRa packets can be forwarded directly to LoRaWAN. For example, all received LoRa sensors can be connected to LoRaWAN with one device
 
-* API: MQTT/http to LoRa or LoRaWAN 
+* API: MQTT/http to LoRa or LoRaWAN
 
 * Home Assistant Auto-Discovery
 
