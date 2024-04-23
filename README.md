@@ -1,5 +1,5 @@
 # esp32 LoRa Monitor + LoRaWAN Node
-[LilyGo TTGO LoRa esp32](https://github.com/LilyGO/TTGO-LoRa32-V2.1) (T3_V1.6.x) + SD-card support  (868/915 or 433)    
+[LilyGo TTGO LoRa esp32](https://github.com/LilyGO/TTGO-LoRa32-V2.1) (T3_V1.6.x) + SD-card support      
 V2.45-ttgo-lora32_langEN.bin  English   
 V2.45-ttgo-lora32_langDE.bin  German
 
