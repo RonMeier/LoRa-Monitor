@@ -1,11 +1,11 @@
 # esp32 LoRa Monitor + LoRaWAN Node
-[LilyGo TTGO LoRa esp32](https://github.com/LilyGO/TTGO-LoRa32-V2.1) (T3_V1.6.1) + SD Support  (868/915 or 433)    
-V2.44-ttgo-lora32_langEN.bin  English   
-V2.44-ttgo-lora32_langDE.bin  German
+[LilyGo TTGO LoRa esp32](https://github.com/LilyGO/TTGO-LoRa32-V2.1) (T3_V1.6.x) + SD-card support  (868/915 or 433)    
+V2.45-ttgo-lora32_langEN.bin  English   
+V2.45-ttgo-lora32_langDE.bin  German
 
 [Heltec WIFI LoRa esp32 V2](https://resource.heltec.cn/download/Manual%20Old/WiFi%20Lora32Manual.pdf)    
-V2.44-heltec-lora32_V2_langEN.bin  English   
-V2.44-heltec-lora32_V2_langDE.bin  German
+V2.45-heltec-lora32_V2_langEN.bin  English   
+V2.45-heltec-lora32_V2_langDE.bin  German
 
 * integrated web server
   
