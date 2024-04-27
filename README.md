@@ -5,7 +5,7 @@ V2.45-ttgo-lora32_langDE.bin  German
 
 [TTGO-LORA32-V1.3](https://github.com/LilyGO/TTGO-LORA32/tree/LilyGO-V1.3-868)      
 (For these devices, the frequency offset must sometimes be defined above -30000 Hz)      
-V2.45-ttgo-loraV1.3_langDE.bin  English   
+V2.45-ttgo-loraV1.3_langEN.bin  English   
 V2.45-ttgo-loraV1.3_langDE.bin  German
 
 [Heltec WIFI LoRa esp32 V2](https://resource.heltec.cn/download/Manual%20Old/WiFi%20Lora32Manual.pdf)    
