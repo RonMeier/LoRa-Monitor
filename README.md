@@ -18,7 +18,7 @@ V2.45-heltec-lora32_V2_langDE.bin  German
 
 * MQTT, HTTP or UDP Support
 
-* "LoRa to LoRaWAN - Bridge"  Received LoRa packets can be forwarded directly to LoRaWAN. For example, all received LoRa sensors can be connected to LoRaWAN with one device
+* "LoRa to LoRaWAN - Bridge" Received LoRa packets can be forwarded directly to LoRaWAN. For example, all received LoRa sensors can be connected to LoRaWAN with one device
 
 * API: MQTT/http to LoRa or LoRaWAN
 
