@@ -14,7 +14,7 @@ V2.45-heltec-lora32_V2_langDE.bin  German
 
 * integrated web server
   
-* receive + transmit LoRa packets
+* receive + transmit LoRa or LoRaWAN packets
 
 * MQTT, HTTP or UDP Support
 
