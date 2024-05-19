@@ -9,8 +9,8 @@ V2.45-ttgo-loraV1.3_langEN.bin  English
 V2.45-ttgo-loraV1.3_langDE.bin  German
 
 [Heltec WIFI LoRa esp32 V2](https://resource.heltec.cn/download/Manual%20Old/WiFi%20Lora32Manual.pdf)    
-V2.45-heltec-lora32_V2_langEN.bin  English   
-V2.45-heltec-lora32_V2_langDE.bin  German
+V2.46-heltec-lora32_V2_langEN.bin  English   
+V2.46-heltec-lora32_V2_langDE.bin  German
 
 * integrated web server
   
