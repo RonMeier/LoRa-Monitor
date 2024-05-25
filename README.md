@@ -3,6 +3,10 @@
 V2.46-ttgo-lora32_langEN.bin  English   
 V2.46-ttgo-lora32_langDE.bin  German
 
+LilyGo TTGO esp32 new T3S3 V.1.x (H596 with SX1276)   
+V2.46-ttgo-LoRa-T3S3_langEN.bin English   
+V2.46-ttgo-LoRa-T3S3_langDE.bin German 
+
 [TTGO-LORA32-V1.3](https://github.com/LilyGO/TTGO-LORA32/tree/LilyGO-V1.3-868)      
 (For these devices, the frequency offset must sometimes be defined above -30000 Hz)      
 V2.46-ttgo-loraV1.3_langEN.bin  English   
