@@ -1,20 +1,20 @@
 # esp32 LoRa Monitor + LoRaWAN Node in one device
 [LilyGo TTGO LoRa esp32](https://github.com/LilyGO/TTGO-LoRa32-V2.1) (T3_V1.6.x) + SD-card support      
-V2.46-ttgo-lora32_langEN.bin  English   
-V2.46-ttgo-lora32_langDE.bin  German
+V2.47-ttgo-lora32_langEN.bin  English   
+V2.47-ttgo-lora32_langDE.bin  German
 
 LilyGo TTGO esp32 new T3S3 V.1.x (H596 with SX1276)   
-V2.46-ttgo-LoRa-T3S3_langEN.bin English   
-V2.46-ttgo-LoRa-T3S3_langDE.bin German 
+V2.47-ttgo-LoRa-T3S3_langEN.bin English   
+V2.47-ttgo-LoRa-T3S3_langDE.bin German 
 
 [TTGO-LORA32-V1.3](https://github.com/LilyGO/TTGO-LORA32/tree/LilyGO-V1.3-868)      
 (For these devices, the frequency offset must sometimes be defined above -30000 Hz)      
-V2.46-ttgo-loraV1.3_langEN.bin  English   
-V2.46-ttgo-loraV1.3_langDE.bin  German
+V2.47-ttgo-loraV1.3_langEN.bin  English   
+V2.47-ttgo-loraV1.3_langDE.bin  German
 
 [Heltec WIFI LoRa esp32 V2](https://resource.heltec.cn/download/Manual%20Old/WiFi%20Lora32Manual.pdf)    
-V2.46-heltec-lora32_V2_langEN.bin  English   
-V2.46-heltec-lora32_V2_langDE.bin  German
+V2.47-heltec-lora32_V2_langEN.bin  English   
+V2.47-heltec-lora32_V2_langDE.bin  German
 
 * integrated web server
   
@@ -26,7 +26,9 @@ V2.46-heltec-lora32_V2_langDE.bin  German
 
 * API: MQTT/http to LoRa or LoRaWAN
 
-* Home Assistant Auto-Discovery
+* Rules to execute specific commands, HA Auto-Discovery, Scanner
+  
+* The corresponding 433 MHz models are also supported
 
 Flash .bin File with esp32 Flash Tool see: [here](https://www.aeq-web.com/esp32-flash-tool-exported-program-upload-bin-hex-file/?lang=en) or [here](Flash-Instructions/Flash-Instructions.pdf)  or with web flasher [ESPWEBTOOL](https://esp.huhn.me/)  
 The flash tool is only needed the first time, after which all updates can be updated directly from the UI using the update function
