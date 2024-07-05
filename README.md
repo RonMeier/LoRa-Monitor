@@ -33,6 +33,6 @@ V2.47-heltec-lora32_V2_langDE.bin  German
 Flash .bin File with esp32 Flash Tool see: [here](https://www.aeq-web.com/esp32-flash-tool-exported-program-upload-bin-hex-file/?lang=en) or [here](Flash-Instructions/Flash-Instructions.pdf)  or with web flasher [ESPWEBTOOL](https://esp.huhn.me/)  
 The flash tool is only needed the first time, after which all updates can be updated directly from the UI using the update function
 
-After flashing the bin file, an AP is opened on 192.168.1.4. On the config page you can enter your WiFi network name and password, after which the esp will be logged into your own network the next time you start it
+After flashing the bin file, an AP is opened at 192.168.4.1. On the config page you can enter your WiFi network name and password, after which the esp will be logged into your own network the next time you start it
 
 In order for the graphics to be displayed, 3 js files must be loaded from the /lib directory via WebUI with ip/uploadjs
