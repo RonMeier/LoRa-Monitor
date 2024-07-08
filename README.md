@@ -1,20 +1,20 @@
 # esp32 LoRa Monitor + LoRaWAN Node in one device
 [LilyGo TTGO LoRa esp32](https://github.com/LilyGO/TTGO-LoRa32-V2.1) (T3_V1.6.x) + SD-card support      
-V2.47-ttgo-lora32_langEN.bin  English   
-V2.47-ttgo-lora32_langDE.bin  German
+V2.48-ttgo-lora32_langEN.bin  English   
+V2.48-ttgo-lora32_langDE.bin  German
 
 LilyGo TTGO esp32 new T3S3 V.1.x (H596 with SX1276)   
-V2.47-ttgo-LoRa-T3S3_langEN.bin English   
-V2.47-ttgo-LoRa-T3S3_langDE.bin German 
+V2.48-ttgo-LoRa-T3S3_langEN.bin English   
+V2.48-ttgo-LoRa-T3S3_langDE.bin German 
 
 [TTGO-LORA32-V1.3](https://github.com/LilyGO/TTGO-LORA32/tree/LilyGO-V1.3-868)      
 (For these devices, the frequency offset must sometimes be defined above -30000 Hz)      
-V2.47-ttgo-loraV1.3_langEN.bin  English   
-V2.47-ttgo-loraV1.3_langDE.bin  German
+V2.48-ttgo-loraV1.3_langEN.bin  English   
+V2.48-ttgo-loraV1.3_langDE.bin  German
 
 [Heltec WIFI LoRa esp32 V2](https://resource.heltec.cn/download/Manual%20Old/WiFi%20Lora32Manual.pdf)    
-V2.47-heltec-lora32_V2_langEN.bin  English   
-V2.47-heltec-lora32_V2_langDE.bin  German
+V2.48-heltec-lora32_V2_langEN.bin  English   
+V2.48-heltec-lora32_V2_langDE.bin  German
 
 * integrated web server
   
