@@ -1,5 +1,5 @@
 # LoRa P2P Monitor + LoRaWAN Node in one device
-[LilyGo TTGO LoRa esp32](https://github.com/LilyGO/TTGO-LoRa32-V2.1) (T3_V1.6.x) + SD-card support      
+[LilyGo TTGO LoRa esp32](https://github.com/LilyGO/TTGO-LoRa32-V2.1) (V1.6.x) + SD-card support      
 V2.7-ttgo-lora32_V161_langEN.bin  English   
 V2.7-ttgo-lora32_V161_langDE.bin  German
 
