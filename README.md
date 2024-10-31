@@ -4,17 +4,17 @@ V2.7-ttgo-lora32_V161_langEN.bin  English
 V2.7-ttgo-lora32_V161_langDE.bin  German
 
 [LilyGo TTGO esp32 new T3S3 V.1.x](https://www.lilygo.cc/products/t3s3-v1-0?variant=42586879688885) (H596 with SX1276)   
-V2.5-ttgo-LoRa-T3S3_langEN.bin English   
-V2.5-ttgo-LoRa-T3S3_langDE.bin German 
+V2.7-ttgo-LoRa-T3S3_SX1276_langEN.bin English   
+V2.7-ttgo-LoRa-T3S3_SX1276_langDE.bin German 
 
 [LilyGo TTGO-LORA32-V1.3](https://github.com/LilyGO/TTGO-LORA32/tree/LilyGO-V1.3-868)      
 (For these devices, the frequency offset must sometimes be defined above -30000 Hz)      
-V2.5-ttgo-loraV1.3_langEN.bin  English   
-V2.5-ttgo-loraV1.3_langDE.bin  German
+V2.7-ttgo-loraV1.3_langEN.bin  English   
+V2.7-ttgo-loraV1.3_langDE.bin  German
 
 [Heltec WIFI LoRa esp32 V2](https://resource.heltec.cn/download/Manual%20Old/WiFi%20Lora32Manual.pdf)    
-V2.5-heltec-lora32_V2_langEN.bin  English   
-V2.5-heltec-lora32_V2_langDE.bin  German
+V2.7-heltec-lora32_V2_langEN.bin  English   
+V2.7-heltec-lora32_V2_langDE.bin  German
 
 * integrated web server
   
