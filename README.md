@@ -16,7 +16,7 @@ V2.7-ttgo-loraV1.3_langDE.bin  German
 V2.7-ttgo-LoRa-T3S3_SX1276_langEN.bin English   
 V2.7-ttgo-LoRa-T3S3_SX1276_langDE.bin German 
 
-[Lilygo TTGO new T3S3 V.1.x](https://www.lilygo.cc/products/t3s3-v1-0?variant=42586879721653) (H595 with SX1262)   
+[LilyGo TTGO new T3S3 V.1.x](https://www.lilygo.cc/products/t3s3-v1-0?variant=42586879721653) (H595 with SX1262)   
 support for SD, Oled-Display or [E-Paper-Display](https://www.bastelgarage.ch/lora/lora-kits-boards/lilygo-lora-t3s3-e-paper-esp32-s3-868mhz-sx1262)   
 V2.7-ttgo-LoRa-T3S3_SX1262_langEN.bin English   
 V2.7-ttgo-LoRa-T3S3_SX1262_langDE.bin German  
