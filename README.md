@@ -25,7 +25,7 @@ V2.7-ttgo-LoRa-T3S3_SX1262_langDE.bin German
    
 * integrated web server
   
-* receive + transmit LoRa or LoRaWAN packets
+* receive + transmit LoRa P2P or LoRaWAN packets
 
 * LoRa to MQTT, LoRa to HTTP, LoRa to UDP
 
