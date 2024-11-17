@@ -4,8 +4,8 @@ V2.7-heltec-lora32_V2_langEN.bin  English
 V2.7-heltec-lora32_V2_langDE.bin  German
 
 [LilyGo TTGO LoRa esp32](https://github.com/LilyGO/TTGO-LoRa32-V2.1) (V1.6.x) + SD-card support      
-V2.7-ttgo-lora32_V161_868_433_langDE.bin  English   
-V2.7-ttgo-lora32_V161_868_433_langEN.bin  German
+V2.7-ttgo-lora32_V161_868_433_langEN.bin  English   
+V2.7-ttgo-lora32_V161_868_433_langDE.bin  German
 
 [LilyGo TTGO-LORA32-V1.3](https://github.com/LilyGO/TTGO-LORA32/tree/LilyGO-V1.3-868)      
 (For these devices, the frequency offset must sometimes be defined above -30000 Hz)      
@@ -29,7 +29,7 @@ V2.7-ttgo-LoRa-T3S3_SX1262_langDE.bin German
 
 * LoRa to MQTT, LoRa to HTTP, LoRa to UDP
 
-* "LoRa to LoRaWAN - Bridge" Received LoRa packets can be forwarded directly to LoRaWAN. For example, all received LoRa sensors can be connected to LoRaWAN with one device   
+* "LoRa to LoRaWAN - Bridge" Received LoRa packets can be forwarded directly to LoRaWAN. For example, received LoRa sensors can be connected to LoRaWAN with one device   
   This means you only need to register one device with TTN to transfer the data from all your lora sensors and you can then read out the sensors individually again in the Payload formatter at TTN
 
 * API: MQTT/http to LoRa or LoRaWAN
