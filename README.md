@@ -4,8 +4,8 @@ V2.7-heltec-lora32_V2_langEN.bin  English
 V2.7-heltec-lora32_V2_langDE.bin  German
 
 [LilyGo TTGO LoRa esp32](https://github.com/LilyGO/TTGO-LoRa32-V2.1) (V1.6.x) + SD-card support      
-V2.7-ttgo-lora32_V161_langEN.bin  English   
-V2.7-ttgo-lora32_V161_langDE.bin  German
+V2.7-ttgo-lora32_V161_868_433_langDE.bin  English   
+V2.7-ttgo-lora32_V161_868_433_langEN.bin  German
 
 [LilyGo TTGO-LORA32-V1.3](https://github.com/LilyGO/TTGO-LORA32/tree/LilyGO-V1.3-868)      
 (For these devices, the frequency offset must sometimes be defined above -30000 Hz)      
