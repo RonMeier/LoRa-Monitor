@@ -1,25 +1,23 @@
-# LoRa P2P Monitor + LoRaWAN Node in one device
-[Heltec WIFI LoRa esp32 V2](https://resource.heltec.cn/download/Manual%20Old/WiFi%20Lora32Manual.pdf)    
-V2.7-heltec-lora32_V2_langEN.bin  English   
-V2.7-heltec-lora32_V2_langDE.bin  German
+# LoRa P2P Monitor + LoRaWAN Node
+[Heltec WIFI LoRa esp32 V2](https://heltec.org/project/wifi-lora-32v2/)    (868/915)   
+Vx.x-heltec-lora32_V2_langxx.bin   
+
+[Heltec WIFI LoRa esp32 V3](https://heltec.org/project/wifi-lora-32v3/)    (868/915)   
+Vx.x-heltec-lora32_V3_langxx.bin   
 
 [LilyGo TTGO LoRa esp32](https://github.com/LilyGO/TTGO-LoRa32-V2.1) (V1.6.x) + SD-card support      
-V2.7-ttgo-lora32_V161_868_433_langEN.bin  English   
-V2.7-ttgo-lora32_V161_868_433_langDE.bin  German
+Vx.x-ttgo-lora32_V161_868_433_langxx.bin   
 
 [LilyGo TTGO-LORA32-V1.3](https://github.com/LilyGO/TTGO-LORA32/tree/LilyGO-V1.3-868)      
 (For these devices, the frequency offset must sometimes be defined above -30000 Hz)      
-V2.7-ttgo-loraV1.3_langEN.bin  English   
-V2.7-ttgo-loraV1.3_langDE.bin  German
+Vx.x-ttgo-loraV1.3_langxx.bin   
 
 [LilyGo TTGO new T3S3 V.1.x](https://www.lilygo.cc/products/t3s3-v1-0?variant=42586879688885) (H596 with SX1276)   
-V2.7-ttgo-LoRa-T3S3_SX1276_langEN.bin English   
-V2.7-ttgo-LoRa-T3S3_SX1276_langDE.bin German 
+Vx.x-ttgo-LoRa-T3S3_SX1276_langxx.bin   
 
 [LilyGo TTGO new T3S3 V.1.x](https://www.lilygo.cc/products/t3s3-v1-0?variant=42586879721653) (H595 with SX1262)   
 support for SD, Oled-Display or [E-Paper-Display](https://www.bastelgarage.ch/lora/lora-kits-boards/lilygo-lora-t3s3-e-paper-esp32-s3-868mhz-sx1262)   
-V2.7-ttgo-LoRa-T3S3_SX1262_langEN.bin English   
-V2.7-ttgo-LoRa-T3S3_SX1262_langDE.bin German  
+Vx.x-ttgo-LoRa-T3S3_SX1262_langxx.binh   
 
 
    
