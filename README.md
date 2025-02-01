@@ -3,7 +3,7 @@
 ## Overview
 * integrated web server
   
-* receive + transmit LoRa P2P or LoRaWAN packets
+* receive + transmit LoRa P2P and LoRaWAN packets
 
 * LoRa to MQTT, LoRa to HTTP, LoRa to UDP
 
@@ -12,7 +12,7 @@
 
 * API: MQTT/http to LoRa or LoRaWAN
 
-* Rules to execute specific commands, HA Auto-Discovery, Scanner, switchable relay outputs
+* Rules to execute specific commands, HA Auto-Discovery, LoRa Scanner, switchable relay outputs
 
 * The corresponding 433 MHz models are also supported
 
