@@ -12,7 +12,7 @@
 
 * API: MQTT/http to LoRa or LoRaWAN
 
-* Rules to execute specific commands, HA Auto-Discovery, Scanner, switchable relay outputs
+* Rules to execute specific commands, HA Auto-Discovery, Scanner with LoRaWAN and Meshtastic activity measurement, switchable relay outputs
 
 * The corresponding 433 MHz models are also supported
 
