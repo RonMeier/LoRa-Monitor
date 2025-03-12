@@ -45,7 +45,7 @@ Vx.x-ttgo-LoRa-T3S3_LR1121_langxx.bin
    
 
 
-Flash .bin File with esp32 Flash Tool see: [here](Flash-Instructions/Flash-Instructions.pdf) or [here](https://www.aeq-web.com/esp32-flash-tool-exported-program-upload-bin-hex-file/?lang=en) or with web flasher [ESPWEBTOOL](https://esp.huhn.me/)  
+Flash .bin File with esp32 Flash Tool see: [here](Flash-Instructions/Flash-Instructions.pdf) or with web flasher [ESPWEBTOOL](https://esp.huhn.me/)  
 The flash tool is only needed the first time, after which all updates can be updated directly from the UI using the update function
 
 After flashing the bin file, an AP is opened at 192.168.4.1. On the config page you can enter your WiFi network name and password, after which the esp will be logged into your own network the next time you start it
