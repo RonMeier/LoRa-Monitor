@@ -12,7 +12,7 @@
 
 * API: MQTT/http to LoRa or LoRaWAN
 
-* Rules to execute specific commands, HA Auto-Discovery, Scanner with LoRaWAN and Meshtastic activity measurement, switchable relay outputs
+* Rules to execute specific commands, Auto-Discovery, Scanner with LoRaWAN and Meshtastic activity measurement, switchable relay outputs, Simplex-, Duplex-, Repeater-mode, etc.
 
 * The corresponding 433 MHz models are also supported
 
@@ -40,7 +40,7 @@ Vx.x-ttgo-LoRa-T3S3_SX1276_langxx.bin
 support for SD, Oled-Display or [E-Paper-Display](https://www.bastelgarage.ch/lora/lora-kits-boards/lilygo-lora-t3s3-e-paper-esp32-s3-868mhz-sx1262)   
 Vx.x-ttgo-LoRa-T3S3_SX1262_langxx.bin   
 
-[LilyGo TTGO T3S3](https://lilygo.cc/products/t3-s3-lr1121) (H750 with LR1121)     (868/915)    
+[LilyGo TTGO T3S3](https://lilygo.cc/products/t3-s3-lr1121) (H750 with LR1121)     (868/915 + LoRa2.4GHz (1900-2200 + 2400-2500))    
 Vx.x-ttgo-LoRa-T3S3_LR1121_langxx.bin  
    
 
