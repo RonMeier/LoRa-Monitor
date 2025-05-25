@@ -7,10 +7,8 @@
 
 * LoRa to MQTT, LoRa to HTTP, LoRa to UDP
 
-* "LoRa to LoRaWAN - Bridge" Received LoRa packets can be forwarded directly to LoRaWAN. For example, received LoRa sensors can be connected to LoRaWAN with one device   
-  This means you only need to register one device with TTN to transfer the data from all your lora sensors and you can then read out the sensors individually again in the Payload formatter at TTN
-
-* API: MQTT/http to LoRa or LoRaWAN
+* "LoRa to LoRaWAN - Bridge" for example, you can forward sensor data received via P2P to LoRaAWN 
+or send control commands received via LoRaWAN back out via LoRa P2P
 
 * Rules to execute specific commands, Auto-Discovery, Scanner with LoRaWAN and Meshtastic activity measurement, switchable relay outputs, Simplex-, Duplex-, Repeater-mode, etc.
 
