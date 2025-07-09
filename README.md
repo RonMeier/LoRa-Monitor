@@ -7,10 +7,10 @@
 
 * LoRa to MQTT, LoRa to HTTP, LoRa to UDP
 
+* Rules to execute specific commands, Auto-Discovery, Scanner with LoRaWAN and Meshtastic activity measurement, switchable relay outputs, Simplex-, Duplex-, Repeater-mode, etc.
+
 * "LoRa to LoRaWAN - Bridge" for example, you can forward sensor data received via P2P to LoRaAWN 
 or send control commands received via LoRaWAN back out via LoRa P2P
-
-* Rules to execute specific commands, Auto-Discovery, Scanner with LoRaWAN and Meshtastic activity measurement, switchable relay outputs, Simplex-, Duplex-, Repeater-mode, etc.
 
 * The corresponding 433 MHz models are also supported
 
@@ -18,16 +18,16 @@ or send control commands received via LoRaWAN back out via LoRa P2P
 
 ## Hardware Requirements
 
-[Heltec WIFI LoRa esp32 V2](https://heltec.org/project/wifi-lora-32v2/)    (868/915)   
+[Heltec WIFI LoRa esp32 V2](https://heltec.org/project/wifi-lora-32v2/)    (868/915) [Flash-Tool](https://ronmeier.github.io/Lora-Web-Flasher)   
 Vx.x-heltec-lora32_V2_langxx.bin   
 
 [Heltec WIFI LoRa esp32 V3](https://heltec.org/project/wifi-lora-32v3/)    (868/915)   
 Vx.x-heltec-lora32_V3_langxx.bin   
 
-[LilyGo TTGO LoRa esp32 V1.6.1](https://github.com/LilyGO/TTGO-LoRa32-V2.1) + SD-card support   (433/868/915)    
+[LilyGo TTGO LoRa esp32 V1.6.1](https://github.com/LilyGO/TTGO-LoRa32-V2.1) + SD-card support (433/868/915) [Flash-Tool](https://ronmeier.github.io/Lora-Web-Flasher)    
 Vx.x-ttgo-lora32_V161_langxx.bin   
 
-[LilyGo TTGO-LORA32-V1.3](https://github.com/LilyGO/TTGO-LORA32/tree/LilyGO-V1.3-868)        (868/915)    
+[LilyGo TTGO-LORA32-V1.3](https://github.com/LilyGO/TTGO-LORA32/tree/LilyGO-V1.3-868) (868/915) [Flash-Tool](https://ronmeier.github.io/Lora-Web-Flasher)    
 (For these devices, the frequency offset must sometimes be defined above -30000 Hz)      
 Vx.x-ttgo-loraV1.3_langxx.bin   
 
