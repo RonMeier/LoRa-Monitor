@@ -18,16 +18,16 @@ or send control commands received via LoRaWAN back out via LoRa P2P
 
 ## Hardware Requirements
 
-[Heltec WIFI LoRa esp32 V2](https://heltec.org/project/wifi-lora-32v2/)    (868/915) [Flash-Tool](https://ronmeier.github.io/Lora-Web-Flasher)   
+[Heltec WIFI LoRa esp32 V2](https://heltec.org/project/wifi-lora-32v2/)    (868/915)    
 Vx.x-heltec-lora32_V2_langxx.bin   
 
 [Heltec WIFI LoRa esp32 V3](https://heltec.org/project/wifi-lora-32v3/)    (868/915)   
 Vx.x-heltec-lora32_V3_langxx.bin   
 
-[LilyGo TTGO LoRa esp32 V1.6.1](https://github.com/LilyGO/TTGO-LoRa32-V2.1) + SD-card support (433/868/915) [Flash-Tool](https://ronmeier.github.io/Lora-Web-Flasher)    
+[LilyGo TTGO LoRa esp32 V1.6.1](https://github.com/LilyGO/TTGO-LoRa32-V2.1) + SD-card support (433/868/915)     
 Vx.x-ttgo-lora32_V161_langxx.bin   
 
-[LilyGo TTGO-LORA32-V1.3](https://github.com/LilyGO/TTGO-LORA32/tree/LilyGO-V1.3-868) (868/915) [Flash-Tool](https://ronmeier.github.io/Lora-Web-Flasher)    
+[LilyGo TTGO-LORA32-V1.3](https://github.com/LilyGO/TTGO-LORA32/tree/LilyGO-V1.3-868) (868/915)     
 (For these devices, the frequency offset must sometimes be defined above -30000 Hz)      
 Vx.x-ttgo-loraV1.3_langxx.bin   
 
@@ -43,7 +43,8 @@ Vx.x-ttgo-LoRa-T3S3_LR1121_langxx.bin
    
 
 
-Flash .bin File with esp32 Flash Tool see: [here](Flash-Instructions/Flash-Instructions.pdf) or with web flasher [ESPWEBTOOL](https://esp.huhn.me/)  
+Flashing the .bin file: Not all web browsers support direct flashing via the serial port. Therefore, use a compatible browser (e.g., Chrome or Edge) to transfer the .bin file 
+directly using the Web-Flash-tool. [Flash-Tool](https://ronmeier.github.io/Lora-Web-Flasher)  
 The flash tool is only needed the first time, after which all updates can be updated directly from the UI using the update function
 
 After flashing the bin file, an AP is opened at 192.168.4.1. On the config page you can enter your WiFi network name and password, after which the esp will be logged into your own network the next time you start it
