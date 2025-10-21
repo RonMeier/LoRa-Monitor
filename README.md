@@ -7,14 +7,12 @@
 
 * LoRa to MQTT, LoRa to HTTP, LoRa to UDP
 
-* Rules to execute specific commands, Auto-Discovery, Scanner with LoRaWAN and Meshtastic activity measurement, switchable relay outputs, Simplex-, Duplex-, Repeater-mode, etc.
+* Rules to execute specific commands, Scanner with LoRaWAN and Mesh activity measurement, switchable relay outputs, Auto-Discovery, Simplex-, Duplex-, Repeater-mode, etc.
 
 * "LoRa to LoRaWAN - Bridge" for example, you can forward sensor data received via P2P to LoRaAWN 
 or send control commands received via LoRaWAN back out via LoRa P2P
 
 * The corresponding 433 MHz models are also supported
-
-* does not require internet connection
 
 ## Hardware Requirements
 
