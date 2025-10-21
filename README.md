@@ -14,6 +14,7 @@ or send control commands received via LoRaWAN back out via LoRa P2P
 
 * The corresponding 433 MHz models are also supported
 
+
 ## Hardware Requirements
 
 [Heltec WIFI LoRa esp32 V2](https://heltec.org/project/wifi-lora-32v2/)    (868/915)    
