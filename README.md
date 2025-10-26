@@ -13,6 +13,7 @@
 or send control commands received via LoRaWAN back out via LoRa P2P
 
 * The corresponding 433 MHz models are also supported
+<br>
 
 
 ## Hardware Requirements
@@ -45,6 +46,8 @@ You can flash your device directly using the [LoRa Monitor – Firmware Flasher]
 Note: Not all web browsers support flashing via the serial port. Please use a compatible browser (e.g., Chrome or Edge).    
 The flash tool is only required for the initial installation. After that, all updates can be installed directly from the device UI using the built-in update function.
 
-After flashing the bin file, an AP is opened at 192.168.4.1. On the config page you can enter your WiFi network name and password, after which the esp will be logged into your own network the next time you start it
+After flashing the bin file, the device will open a WiFi access point (AP) named "Lora-Monitor".
+Connect your smartphone (or computer) to this network, then open 192.168.4.1 in your web browser.
+On the configuration page, enter your WiFi network name (SSID) and password. After saving, the ESP will automatically connect to your own network the next time it starts.
 
 In order for the graphics to be displayed, 3 js files must be loaded from the /lib directory via WebUI
