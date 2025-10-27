@@ -41,12 +41,11 @@ Vx.x-ttgo-LoRa-T3S3_SX1262_langxx.bin
 [LilyGo TTGO T3S3 H750 with LR1121](https://lilygo.cc/products/t3-s3-lr1121)      (868/915 + LoRa2.4GHz (1900-2200 + 2400-2500))    
 Vx.x-ttgo-LoRa-T3S3_LR1121_langxx.bin  
    
-Flashing the .bin file:    
 You can flash your device directly using the [LoRa Monitor – Firmware Flasher](https://ronmeier.github.io/Lora-Web-Flasher)    
 Note: Not all web browsers support flashing via the serial port. Please use a compatible browser (e.g., Chrome or Edge).    
 The flash tool is only required for the initial installation. After that, all updates can be installed directly from the device UI using the built-in update function.
 
-After flashing the bin file, the device will open a WiFi access point (AP) named "Lora-Monitor".
+After flashing, the device will open a WiFi access point (AP) named "Lora-Monitor".
 Connect your smartphone (or computer) to this network, then open 192.168.4.1 in your web browser.
 On the configuration page, enter your WiFi network name (SSID) and password. After saving, the ESP will automatically connect to your own network the next time it starts.
 
