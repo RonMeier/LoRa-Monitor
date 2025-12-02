@@ -18,7 +18,7 @@ or send control commands received via LoRaWAN back out via LoRa P2P
 ## Hardware Requirements
 
 Heltec WIFI LoRa esp32 [V2](https://heltec.org/project/wifi-lora-32v2/) [V3](https://heltec.org/project/wifi-lora-32v3/) 
-[V4](https://heltec.org/project/wifi-lora-32-v4/) [VM E213](https://heltec.org/project/vision-master-e213)/) (868/915)    
+[V4](https://heltec.org/project/wifi-lora-32-v4/) [VM E213](https://heltec.org/project/vision-master-e213) (868/915)    
 
 [LilyGo TTGO LoRa esp32 V2 1.6.1](https://github.com/LilyGO/TTGO-LoRa32-V2.1) + SD-card support (433/868/915)     
   
