@@ -31,7 +31,6 @@ support for SD, Oled-Display or [E-Paper-Display](https://www.bastelgarage.ch/lo
      
 You can flash your device directly using the [LoRa Monitor – Firmware Flasher](https://ronmeier.github.io/Lora-Web-Flasher)    
 Note: Not all web browsers support flashing via the serial port. Please use a compatible browser (e.g., Chrome or Edge).    
-The flash tool is only required for the initial installation. After that, all updates can be installed directly from the device UI using the built-in update function.
 
 After flashing, the device will open a WiFi access point (AP) named "Lora-Monitor".
 Connect your smartphone (or computer) to this network, then open 192.168.4.1 in your web browser.
