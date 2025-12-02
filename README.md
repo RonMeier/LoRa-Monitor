@@ -26,9 +26,9 @@ Heltec WIFI LoRa esp32 [V2](https://heltec.org/project/wifi-lora-32v2/) [V3](htt
 
 [LilyGo TTGO T3S3 H595 with SX1262](https://www.lilygo.cc/products/t3s3-v1-0?variant=42586879721653)      (868/915)
 support for SD, Oled-Display or [E-Paper-Display](https://www.bastelgarage.ch/lora/lora-kits-boards/lilygo-lora-t3s3-e-paper-esp32-s3-868mhz-sx1262)   
-
+<br> 
    
-<br>      
+     
 You can flash your device directly using the [LoRa Monitor – Firmware Flasher](https://ronmeier.github.io/Lora-Web-Flasher)    
 Note: Not all web browsers support flashing via the serial port. Please use a compatible browser (e.g., Chrome or Edge).    
 The flash tool is only required for the initial installation. After that, all updates can be installed directly from the device UI using the built-in update function.
